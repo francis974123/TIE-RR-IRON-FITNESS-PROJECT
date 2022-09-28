@@ -48,4 +48,6 @@ the database storage to save the username password
 ![Screenshot (117)](https://user-images.githubusercontent.com/114352583/192782343-807d4559-ad87-4e6b-9188-2db01d826d10.png)
 
 
+The file is hosted on the website called infinitly free that provides free hosting and free cloud space and the data is connected using the myPhpadmin 
+The login data and saved changes is stored in the myPhpadmin mysql
 
